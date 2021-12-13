@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-inheriting_from_class_obj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-base", "3-base\3-base.csproj", "{5525B94B-BCFD-4170-94F4-4BE7F0B1E086}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-nested_class", "4-nested_class\4-nested_class.csproj", "{629988FF-9C20-4002-9512-748C37AC7ADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5525B94B-BCFD-4170-94F4-4BE7F0B1E086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5525B94B-BCFD-4170-94F4-4BE7F0B1E086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5525B94B-BCFD-4170-94F4-4BE7F0B1E086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629988FF-9C20-4002-9512-748C37AC7ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629988FF-9C20-4002-9512-748C37AC7ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629988FF-9C20-4002-9512-748C37AC7ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629988FF-9C20-4002-9512-748C37AC7ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
