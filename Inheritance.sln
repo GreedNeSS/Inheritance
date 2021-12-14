@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-nested_class", "4-nested_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-abstract-class", "5-abstract-class\5-abstract-class.csproj", "{6EF4DEF9-42DD-48DE-9155-2FE485AABDC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-operator_as_and_is", "6-operator_as_and_is\6-operator_as_and_is.csproj", "{33AE3B8F-5DB2-4CB1-B3E2-95E838C6EF3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-operator_as_and_is", "6-operator_as_and_is\6-operator_as_and_is.csproj", "{33AE3B8F-5DB2-4CB1-B3E2-95E838C6EF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-partial-class", "7-partial-class\7-partial-class.csproj", "{40477429-4364-4B12-90D1-5841CD45DFE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{33AE3B8F-5DB2-4CB1-B3E2-95E838C6EF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33AE3B8F-5DB2-4CB1-B3E2-95E838C6EF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33AE3B8F-5DB2-4CB1-B3E2-95E838C6EF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40477429-4364-4B12-90D1-5841CD45DFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40477429-4364-4B12-90D1-5841CD45DFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40477429-4364-4B12-90D1-5841CD45DFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40477429-4364-4B12-90D1-5841CD45DFE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
