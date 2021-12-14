@@ -46,7 +46,11 @@ namespace _5_abstract_class
              * 
              * ((RectangleFigure)rect).Draw();
              * 
+             * RectangleFigure rectFigure = rect as RectangleFigure;
+             * 
              * ((RectangleFigure)circle).Draw();
+             * 
+             * CircleFigure circ = circle as CircleFigure;
              */
         }
     }
