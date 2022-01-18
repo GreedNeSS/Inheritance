@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _10_interface.Models
 {
-    interface IWeapon
+    interface IWeapon : IMeleeWeapon
     {
         int Damage { get; }
         void Fire();

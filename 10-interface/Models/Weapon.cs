@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _10_interface.Models
 {
-    abstract class Weapon : IWeapon, IHasInfo, IMeleeWeapon
+    abstract class Weapon : IWeapon, IHasInfo
     {
         public abstract int Damage { get; }
 
