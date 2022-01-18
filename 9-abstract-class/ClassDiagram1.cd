@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_9_abstract_class.Models.Weapon">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_9_abstract_class.Models.Bow">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Bow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_9_abstract_class.Models.Gun">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="_9_abstract_class.Models.Weapon" ManuallyRouted="true">
+      <Path>
+        <Point X="10" Y="2.247" />
+        <Point X="10" Y="3.375" />
+        <Point X="14.25" Y="3.375" />
+        <Point X="14.25" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_9_abstract_class.Models.LaserGun">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LaserGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_9_abstract_class.Models.Player">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
